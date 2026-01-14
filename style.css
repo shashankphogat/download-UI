@@ -63,3 +63,10 @@ button:active{
 i{
     color: rgb(0, 115, 255);
 }
+
+@media(max-width:768px){
+    .outer{
+        width:80%;
+        height:40%;
+    }
+}
